@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@500;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+*{
+  font-family: 'Hanken Grotesk', sans-serif;
+}
+
+p{
+  @apply text-slate-200;
+}
+
+/* .bg-gradiant-result{
+  background: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
+}
+
+.bg-gradiant-result-circle{
+  background: linear-gradient(hsla(256, 72%, 46%, 1), hsla(241, 72%, 46%, 0));
+}
+
+#continue-btn:hover{
+  background: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
+} */
