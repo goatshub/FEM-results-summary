@@ -11,7 +11,6 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-- [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
@@ -29,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/results-summary-using-vite-react-tailwind-css-7Egfwr6lRW)
+- Live Site URL: [Vercel](https://fem-results-summary-goat.vercel.app/)
 
 ## My process
 
@@ -44,7 +43,6 @@ Users should be able to:
 - [tailwind CSS](https://tailwindcss.com/) - CSS framework
 - [Vite](https://vitejs.dev/) - Build tool
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
